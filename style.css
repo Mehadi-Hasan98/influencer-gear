@@ -167,6 +167,7 @@ Mobile Devices
     }
     .product, .half-width, .half-width-2{
         flex-direction: column;
+        width: 100%;
     }
     
 }
